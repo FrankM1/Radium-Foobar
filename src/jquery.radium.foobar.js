@@ -1,7 +1,5 @@
- 
-/* radium_foobar
-/* Version 1.2 */
-(function($) {
+ /*! http://radiumthemes.com v1.0 by @radiumthemes */
+;(function($) {
  	
  	var Radium_Foobar = { 
  			
